@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="806130f0-6456-4905-ade9-6a058c11792c" name="Default Changelist" comment="" />
+    <list default="true" id="806130f0-6456-4905-ade9-6a058c11792c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/MachineLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MachineLearning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logistic_Regression/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Logistic_Regression/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.polynomial_linear_regression">
+  <component name="RunManager" selected="Python.test">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,6 +133,7 @@
       <workItem from="1581946025414" duration="8427000" />
       <workItem from="1581966975998" duration="476000" />
       <workItem from="1583040089924" duration="486000" />
+      <workItem from="1584469829878" duration="2670000" />
     </task>
     <task id="LOCAL-00001" summary="Random Forest Classification">
       <created>1583040540980</created>
@@ -147,7 +153,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

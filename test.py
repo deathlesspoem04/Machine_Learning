@@ -12,3 +12,6 @@ Data = '{"employee_name":"Vishesh","email":"visheshsinha801@gmail.com","job_prof
 df = pd.read_json(Data)
 print(df)
 print(df.to_json(orient="records"))
+
+from io import StringIO,BytesIO
+pd.read_csv(StringIO(Data))
